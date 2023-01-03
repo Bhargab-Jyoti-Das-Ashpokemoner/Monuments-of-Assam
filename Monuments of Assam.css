@@ -1,0 +1,45 @@
+* {font-family:"Times New Roman"; color:#FFFFFF; text-shadow: 2px 0px 0px black,-2px 0px 0px black,0px 2px 0px black,0px -2px 0px black;}
+
+body{background-repeat: no-repeat; background-size: cover; background-attachment: fix; margin:0px;}
+
+p,dd{font-size: 14pt; font-family:Bahnschrift;}
+p.home{border-width:5px;border-color:#AFBCD9;border-style:groove; background-image: linear-gradient(to right,#FF7600,#FFFFFF)}
+p.img{font-size: 14pt; text-indent:15pt; font-family:Bahnschrift;}
+
+header{background-image: linear-gradient(45deg,#5B2570,#923CB5,#CE55FF,#E7B4FF,#FFFFFF,#E7B4FF,#CE55FF,#923CB5,#5B2570);}
+h1{text-align: center; text-transform: uppercase; color:#2234AE;
+text-shadow: 0px 0px 0px black,0px 0px 0px black,0px 0px 0px black,0px 0px 0px black;
+height:20%;width:100%; padding-top: 40px; font-family:Castellar;}
+
+Start{text-align: center; text-transform: uppercase; font-size:70pt; color: #FF0000; 
+text-shadow: 0px 0px 0px black,0px 0px 0px black,0px 0px 0px black,0px 0px 0px black; padding-top: 40px; height:20%;width:100%;font-family:Castellar;}
+
+stress{ font-style:italic; font-weight: 900; font-size: 16pt; }
+
+Start.small{text-align: center; text-transform: uppercase; font-size:40pt; color: #FF0000; 
+text-shadow: 0px 0px 0px black,0px 0px 0px black,0px 0px 0px black,0px 0px 0px black; padding-top: 40px; height:20%;width:100%;font-family:Castellar;}
+
+
+h2 {margin-left:10pt; color: black; text-transform: uppercase; margin-right:10px; border-radius:23px;
+text-shadow: 0.5px 0px 0px white,-0.5px 0px 0px white,0px 0.5px 0px white,0px -0.5px 0px white;
+background-image: linear-gradient(to right,#923CB5,#FFFFFF); border-left: 6px solid #FF0900; padding-left:8px;font-family:Castellar;}
+h3,h4 {text-transform: uppercase; border-left: 6px solid #FF0900; font-family:Castellar;}
+a{color:blue;text-shadow: 1px 0px 0px white,-1px 0px 0px white,0px 1px 0px white,0px -1px 0px white; font-size:14pt;}
+a.place{color:black; text-shadow: 1px 0px 0px white,-1px 0px 0px white,0px 1px 0px white,0px -1px 0px white;}
+
+img.right{float:right; height:40%; width:30%; border-radius: 30px;margin-right: 5px; filter: drop-shadow(10px 10px 10px #000000);}
+img.left{float:left; height:50%; width:30%; border-radius: 30px; filter: drop-shadow(10px 10px 10px #000000);}
+img.center{margin-left:100px;margin-right:100px;  height:30%; width:30%; filter: drop-shadow(10px 10px 10px #000000);}
+img.cfix{ margin-left:250pt; height:50%; width:45%; border-radius: 30px; filter: drop-shadow(10px 10px 20px #000000); margin-bottom:20px}
+img.first{margin-left:100px;  height:50%; width:40%; border-radius: 30px; filter: drop-shadow(10px 10px 10px #000000);margin-top: 10px; margin-bottom:10px;}
+img.second{ height:50%; width:40%; margin-left:100px; border-radius: 30px; filter: drop-shadow(10px 10px 10px #000000);margin-top: 10px; margin-bottom:10px;}
+img.third{height:50%; width:40%; margin-left:100px; border-radius: 30px; filter: drop-shadow(10px 10px 10px #000000); margin-top: 10px; margin-bottom:10px;}
+
+a{color:blue; font-size: 14pt; font-family:Bahnschrift;}
+table{border-style:ridge; border-color:#D425FF; background: wheat; margin-right:0px; border-radius:2x;font-size:14pt;}
+th{padding-top:20px;font-family:Bahnschrift;font-weight:bolder}
+
+.login{background:orange; border-radius:30px;font-family:Bahnschrift;color:black;
+border-color: sandybrown;border-width:20px;width:10%;height:13%;font-size:30px; margin-bottom:40px;; padding-left:10px}
+a.button{color:black;font-size:30px; font-family:Bahnschrift; font-weight:bolder;}
+input{font-size:14pt;}
